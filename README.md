@@ -5,6 +5,7 @@ Now a large archive of news and reddit signals is open to the public. News data 
 **How to interpret the data?**
 There are two files under **data/** - **news_signals.csv** and **reddit_signals.csv** (data compressed to reduce overhead)
 1) **ticker**: self explanatory
+
 	supported tickers:
 	['BTC', 'ETH', 'DOGE', 'ADA', 'LTC', 'XRP', 'XMR', 'XLM', 'BSV', 'BCH', 'CRO', 'TRX', 'EOS', 'ATOM', 'NEO', 'LINK', 'XTZ', 'ETC', 'DASH', 'USDT', 'MKR', 'ZEC', 'BNB', 'LUNA', 'MIOTA', 'LEO', 'HT', 'USDC', 'MATIC', 'ZRX', 'MANA', 'ALGO', 'BUSD', 'HOT', 'WAVES', 'DAI', 'FTT', 'THETA', 'VET', 'NEXO', 'QNT']
 2) **datetime_hour**: date rolled up to the hour level(ceiling)
