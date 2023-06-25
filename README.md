@@ -4,6 +4,8 @@ Now a large archive of news and reddit signals is open to the public. News data 
 
 **How to interpret the data?**
 There are two files under **data/** - **news_signals.csv** and **reddit_signals.csv** (data compressed to reduce overhead)
+You can review the notebook(read_data.ipynb) on how to read the data.
+
 1) **ticker**: self explanatory
 
 	supported tickers:
