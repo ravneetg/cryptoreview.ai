@@ -44,3 +44,15 @@ You can review the notebook(read_data.ipynb) on how to read the data.
 
 ![Alt text](extras/doge.png?raw=true "Dogecoin data - 2021")
 
+
+Disclaimer:
+
+Please note that while this comprehensive archive of cryptocurrency data provides valuable insights and information, it is essential to approach the analysis and utilization of this data with caution. The data presented in this archive is made available for informational purposes only and should not be considered as financial or investment advice.
+
+Cryptocurrency markets are highly volatile and subject to various factors, including market sentiment, regulatory changes, and technological developments. The interpretation and analysis of the data within this archive should be done with a thorough understanding of the risks associated with cryptocurrency investments.
+
+We strongly advise users to conduct their own research, seek professional advice, and exercise sound judgment when making financial decisions. The data provided within this archive should be considered as historical information and not indicative of future performance.
+
+By accessing and utilizing this data, you acknowledge and agree that you are doing so at your own risk. The creators and providers of this archive bear no responsibility for any losses or damages incurred as a result of using this data.
+
+Remember, the cryptocurrency market is highly unpredictable, and past performance is not necessarily indicative of future results.
